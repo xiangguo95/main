@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Chao Huang
+
+~~~
+{}{img_left}{index_files/identity1.jpg}{alt text}{430}{500}
+Hi, welcome to my page!
+
+I'm a postdoc fellow in the [https://www.mccormick.northwestern.edu/electrical-computer/ ECE department] at [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. My research interests include design and verification of various cyber physical systems, e.g. hybrid systems, neural-network controlled systems.
+
+Prior to Northwestern, I received my B.S. and PhD in mathematics and applied mathematics and computer science from [https://www.nju.edu.cn/EN/ Nanjing University] respectively. I also visited the [https://www.cs.aau.dk/ Department of Computer Science] at [https://www.en.aau.dk/ Aalborg University] and was pleased to work with [http://people.cs.aau.dk/~kgl/ Prof. Kim G. Larsen].
+
+\n
+\n
+*My current postdoc contract will end on May 2021 and I am looking for a tenure-track faculty position. Please contact me if there is any open position in your university. Thanks!*
+\n
+\n
+
+[https://www.mccormick.northwestern.edu/electrical-computer/ Department of Electrical and Computer Engineering], \n
+[https://www.northwestern.edu/ Northwestern University] \n
+2145 Sheridan Road \n
+Tech Room L476 \n
+Evanston, IL 60208, United States \n 
+E-mail: /chao.huang/ \[AT\] /northwestern/ \[DOT\] /edu/
+~~~
+
+== Recent News
+- 2020.04 Our paper /SAW: A Tool for Safety Analysis of Weakly-hard Systems/ has been accepted by [http://i-cav.org/2020/ CAV 2020]. See you in Los Angeles, CA this July!
+- 2020.02 Our paper /Opportunistic Intermittent Control with Safety Guarantees for Autonomous Systems/ has been accepted by [https://www.dac.com/ DAC 2020]. See you in San Francisco, CA this July!
+- 2020.01 Our paper /Navigating discrete difference equation governed WMR by virtual linear leader guided HMPC/ has been accepted by [http://icra2020.org/ ICRA 2020]. See you in Paris, France this June!
+
+== Education
+- Nanjing University: PhD, Computer science, 2011 - 2018
+- Nanjing University: B.S., Mathematics, 2007 - 2011
+
+== Work
+- Northwestern University, Evanston: Postdoc fellow, ECE, 2018 - present
+

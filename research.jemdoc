@@ -1,0 +1,65 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+== Research
+
+== Research Interests
+My research interests include design and verification of various cyber physical systems, e.g. hybrid systems, neural-network controlled systems. 
+
+== Publications
+You can also find my publications through [https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=hl=en Google Scholar Profile].
+
+- [SAW: A Tool for Safety Analysis of Weakly-hard Systems]
+-- *Chao Huang*, Kai-Chieh Chang, Chung-Wei Lin, Qi Zhu
+-- To appear on /International Conference on Computer-Aided Verification/, 2020
+
+- [Opportunistic Intermittent Control with Safety Guarantees for Autonomous Systems]
+-- *Chao Huang*, Shichao Xu, Zhilu Wang, Shuyue Lan, Wenchao Li, Qi Zhu
+-- To appear on /Design Automation Conference/, 2020
+
+- [Navigating discrete difference equation governed WMR by virtual linear leader guided HMPC]
+-- *Chao Huang*, Xin Chen, Enyi Tang, Mengda He, Lei Bu, Shengchao Qin, Yifeng Zeng
+-- To appear on /IEEE International Conference on Robotics and Automation/, 2020
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8942059 Towards Verification-Aware Knowledge Distillation for Neural-Network Controlled Systems]
+-- Jiameng Fan, *Chao Huang*, Wenchao Li, Xin Chen, Qi Zhu
+-- /IEEE\/ACM International Conference on Computer-Aided Design/, 2019
+
+- [https://arxiv.org/abs/1906.10654 ReachNN: Reachability Analysis of Neural-Network Controlled Systems]
+-- *Chao Huang*, Jiameng Fan, Wenchao Li, Xin Chen, Qi Zhu
+-- /International Conference on Embedded Software, as part of the ESWEEKTECS special issue/, 2019
+
+- [https://dl.acm.org/citation.cfm?id=3311811 Formal verification of weakly-hard systems]
+-- *Chao Huang*, Wenchao Li, Qi Zhu
+-- /ACM International Conference on Hybrid Systems: Computation and Control/, 2019
+
+- [https://dl.acm.org/citation.cfm?id=3313165 Exploring weakly-hard paradigm for networked systems]
+-- *Chao Huang*, Kacper Wardega, Wenchao Li, Qi Zhu
+-- /Proceedings of the Workshop on Design Automation for CPS and IoT, CPS-Week/, 2019
+
+- [http://www.ieee-cps.org/doc/newsletter/TC-CPS-letter-201808.pdf Model-based Control and Verification of Autonomous Vehicle Systems]
+-- *Chao Huang*
+-- /TC-CPS Newsletter/, Volume 3, Issue 2, August 01, 2018
+
+- [http://ieeexplore.ieee.org/document/7942055 Design Automation for Intelligent Automotive Systems]
+-- Shuyue Lan, *Chao Huang*, Zhilu Wang, Hengyi Liang, Wenhao Su, Qi Zhu
+-- /IEEE International Test Conference/, 2018
+
+- [https://dl.acm.org/citation.cfm?id=3126508 Probabilistic safety verification of stochastic hybrid systems using barrier certificates]
+-- *Chao Huang*, Xin Chen, Wang Lin, Zhengfeng Yang, Xuandong Li
+-- /International Conference on Embedded Software, as part of the ESWEEKTECS special issue/, 2017
+
+- [https://www.ijcai.org/proceedings/2017/605 Switched linear multi-robot navigation using hierarchical model predictive control]
+-- *Chao Huang*, Xin Chen, Yifan Zhang, Shengchao Qin, Yifeng Zeng, Xuandong Li
+-- /International Joint Conference on Artificial Intelligence/, 2017
+
+- [http://people.cs.aau.dk/~muniz/strategoTraffic.pdf Uppaal stratego for intelligent traffic lights]
+-- Andreas Berre Eriksen, *Chao Huang*, Jan Kildebogaard, Harry Lahrmann, Kim G Larsen, Marco Muniz, Jakob Haahr Taankvist
+-- /ITS European Congress/, 2017
+
+- [https://link.springer.com/chapter/10.1007/978-3-319-48989-6_44 A linear programming relaxation based approach for generating barrier certificates of hybrid systems]
+-- Zhengfeng Yang, *Chao Huang*, Xin Chen, Wang Lin, Zhiming Liu
+-- /International Symposium on Formal Methods/, 2016
+
+- [https://dl.acm.org/citation.cfm?id=3061061 Hierarchical model predictive control for multi-robot navigation]
+-- *Chao Huang*, Xin Chen, Yifan Zhang, Shengchao Qin, Yifeng Zeng, Xuandong Li
+-- /International Joint Conference on Artificial Intelligence/, 2016
+
