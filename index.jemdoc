@@ -1,17 +1,17 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Chao Huang
+==Xiangguo Liu
 
 ~~~
 {}{img_left}{index_files/identity1.jpg}{alt text}{430}{500}
 Hi, welcome to my page!
 
-I'm a postdoc fellow in the [https://www.mccormick.northwestern.edu/electrical-computer/ ECE department] at [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. My research interests include design and verification of various cyber physical systems, e.g. hybrid systems, neural-network controlled systems.
+I'm a PhD student in the [https://www.mccormick.northwestern.edu/electrical-computer/ ECE department] at [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. My research interests include optimization, control and learning theories as well as applications on connected and automated vehicle and cyber-physical systems.
 
-Prior to Northwestern, I received my B.S. and PhD in mathematics and applied mathematics and computer science from [https://www.nju.edu.cn/EN/ Nanjing University] respectively. I also visited the [https://www.cs.aau.dk/ Department of Computer Science] at [https://www.en.aau.dk/ Aalborg University] and was pleased to work with [http://people.cs.aau.dk/~kgl/ Prof. Kim G. Larsen].
+Prior to Northwestern, I received my B.S. from department of control science and engineering from [https://www.zju.edu.cn/english/ Zhejiang University]. I also visited the [https://cee.engin.umich.edu/ Department of Civil and Environmental Engineering] at [https://umich.edu/ University of Michigan, Ann Arbor] and was pleased to work with [https://cee.engin.umich.edu/people/neda-masoud/ Prof. Neda Masoud].
 
 \n
 \n
-*My current postdoc contract will end on May 2021 and I am looking for a tenure-track faculty position. Please contact me if there is any open position in your university. Thanks!*
+*Feel free to contact me for any comments on my research.*
 \n
 \n
 
@@ -20,18 +20,12 @@ Prior to Northwestern, I received my B.S. and PhD in mathematics and applied mat
 2145 Sheridan Road \n
 Tech Room L476 \n
 Evanston, IL 60208, United States \n 
-E-mail: /chao.huang/ \[AT\] /northwestern/ \[DOT\] /edu/
+E-mail: /xg.liu/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 ~~~
 
 == Recent News
-- 2020.04 Our paper /SAW: A Tool for Safety Analysis of Weakly-hard Systems/ has been accepted by [http://i-cav.org/2020/ CAV 2020]. See you in Los Angeles, CA this July!
-- 2020.02 Our paper /Opportunistic Intermittent Control with Safety Guarantees for Autonomous Systems/ has been accepted by [https://www.dac.com/ DAC 2020]. See you in San Francisco, CA this July!
-- 2020.01 Our paper /Navigating discrete difference equation governed WMR by virtual linear leader guided HMPC/ has been accepted by [http://icra2020.org/ ICRA 2020]. See you in Paris, France this June!
+- 2020.10 Our paper /A Markov Decision Process Framework to Incorporate Network-Level Data in Motion Planning for Connected and Automated Vehicles/ has been accepted by [http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx TRB 2021]. See you virtually in January 2021!
+- 2020.04 Our paper /Impact of Sharing Driving Attitude Information: A Quantitative Study on Lane Changing/ has been accepted by [https://2020.ieee-iv.org/ IEEE IV 2020]. See you in Las Vegas, NV this October virtually!
 
 == Education
-- Nanjing University: PhD, Computer science, 2011 - 2018
-- Nanjing University: B.S., Mathematics, 2007 - 2011
-
-== Work
-- Northwestern University, Evanston: Postdoc fellow, ECE, 2018 - present
-
+- Zhejiang University: B.S., Control Science and Engineering, 2013 - 2017
